@@ -1,14 +1,12 @@
 # premier-portfolio
 
-That's "First portfolio" in French ✨
-
 ## Screenshot 📸
 
-![Israel Mitolu portfolio screenshot](./assets/img/seo-img.png)
+![lawblaze](./assets/img/seo-img.png)
 
 ## Live Site 🚀
 
-[Preview the website here](https://israelmitolu.netlify.app).
+[Preview the website here](https://lawblaze.netlify.app/).
 
 ## Tools 🔨
 
